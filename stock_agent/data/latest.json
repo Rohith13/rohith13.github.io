@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19 06:00 IST",
+  "total": 6,
+  "strong_buys": 2,
+  "take_calls": 2,
+  "avoids": 2,
+  "results": [
+    {
+      "ticker": "SUZLON.NS",
+      "name": "SUZLON",
+      "sector": "Renewable Energy & Solar",
+      "current_price": 59.20,
+      "target_price_4_8w": 72.0,
+      "confidence_pct": 88,
+      "investment_tier": "STRONG BUY",
+      "key_catalysts": [
+        "India's 500 GW renewable target by 2030",
+        "Order book at all-time high ₹22,000 Cr",
+        "Government PLI push for wind energy"
+      ],
+      "key_risks": [
+        "Debt reduction still in progress",
+        "Global supply chain delays in turbine components"
+      ],
+      "rationale": "Suzlon has transformed its balance sheet and is riding India's biggest energy transition wave. With record orders and policy tailwinds, the 4–8 week case to ₹72+ is strong. High conviction."
+    },
+    {
+      "ticker": "XCHANGING.NS",
+      "name": "XCHANGING",
+      "sector": "AI / Data Center Infrastructure",
+      "current_price": 63.20,
+      "target_price_4_8w": 80.0,
+      "confidence_pct": 85,
+      "investment_tier": "STRONG BUY",
+      "key_catalysts": [
+        "Parent DXC Technology AI services expansion in India",
+        "Enterprise IT outsourcing demand rising",
+        "Data center buildout beneficiary"
+      ],
+      "key_risks": [
+        "Low liquidity stock",
+        "Dependent on parent company strategy"
+      ],
+      "rationale": "Xchanging benefits directly from the global AI-driven IT services boom funnelled through DXC Technology. India's data center expansion adds a structural tailwind to its B2B IT stack."
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "name": "UCO BANK",
+      "sector": "PSU Banks & Financial Inclusion",
+      "current_price": 27.58,
+      "target_price_4_8w": 35.0,
+      "confidence_pct": 72,
+      "investment_tier": "TAKE A CALL",
+      "key_catalysts": [
+        "RBI rate cut cycle improving NIM outlook",
+        "PSU bank recapitalisation tailwind",
+        "India-Russia rupee trade settlement via UCO Bank"
+      ],
+      "key_risks": [
+        "NPA ratios still elevated",
+        "Government policy dependency"
+      ],
+      "rationale": "UCO Bank is unique as the settlement bank for India-Russia trade in rupees — a geopolitical angle not priced in. Rate cuts help, but NPA baggage makes this a 'take a call' rather than a sure bet."
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "name": "BANDHAN BANK",
+      "sector": "PSU Banks & Financial Inclusion",
+      "current_price": 154.00,
+      "target_price_4_8w": 154.00,
+      "confidence_pct": 65,
+      "investment_tier": "TAKE A CALL",
+      "key_catalysts": [
+        "Microfinance recovery in East India",
+        "New management strategic reset"
+      ],
+      "key_risks": [
+        "Already above ₹100 — not in scope today",
+        "MFI stress still being worked through"
+      ],
+      "rationale": "Filtered out — above ₹100. Placeholder entry only."
+    },
+    {
+      "ticker": "INDOSOLAR.NS",
+      "name": "INDOSOLAR",
+      "sector": "Renewable Energy & Solar",
+      "current_price": 22.10,
+      "target_price_4_8w": 26.0,
+      "confidence_pct": 45,
+      "investment_tier": "AVOID",
+      "key_catalysts": [
+        "Solar sector long-term tailwind"
+      ],
+      "key_risks": [
+        "Company financials weak",
+        "Chinese solar panel price competition",
+        "No clear order wins recently"
+      ],
+      "rationale": "While the sector is hot, Indosolar lacks the financial strength and order momentum to translate sector tailwinds into near-term price appreciation. Avoid until fundamentals improve."
+    },
+    {
+      "ticker": "GATI.NS",
+      "name": "GATI",
+      "sector": "Logistics & Warehousing",
+      "current_price": 68.50,
+      "target_price_4_8w": 75.0,
+      "confidence_pct": 52,
+      "investment_tier": "AVOID",
+      "key_catalysts": [
+        "E-commerce logistics demand",
+        "Allcargo Logistics integration"
+      ],
+      "key_risks": [
+        "Integration costs still high post-acquisition",
+        "Zomato/Swiggy in-house logistics eating market",
+        "Margin pressure from fuel costs"
+      ],
+      "rationale": "Gati's integration into Allcargo is taking longer than expected and margins remain under pressure. The ₹100 target in 4–8 weeks is a stretch with no clear near-term catalyst."
+    }
+  ]
+}
